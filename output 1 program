@@ -1,0 +1,14 @@
+🔓 Input:
+User opens login.html, enters:
+----------------------------------------
+Username: admin
+Password: 1234
+--------------------------------------------
+🔐 Successful Output (HTML Page):
+
+Login Successful!
+Welcome, admin 🎉
+--------------------------------------------
+❌ Failed Output:
+Login Failed!
+Invalid username or password.
